@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "learning-rockethelp-rn",
+    "slug": "learning-rockethelp-rn",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
