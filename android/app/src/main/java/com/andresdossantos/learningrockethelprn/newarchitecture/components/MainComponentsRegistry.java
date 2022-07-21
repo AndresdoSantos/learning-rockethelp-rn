@@ -1,4 +1,4 @@
-package com.learningrockethelprn.newarchitecture.components;
+package com.andresdossantos.learningrockethelprn.newarchitecture.components;
 
 import com.facebook.jni.HybridData;
 import com.facebook.proguard.annotations.DoNotStrip;

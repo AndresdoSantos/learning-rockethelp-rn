@@ -1,4 +1,4 @@
-package com.learningrockethelprn.newarchitecture;
+package com.andresdossantos.learningrockethelprn.newarchitecture;
 
 import android.app.Application;
 import androidx.annotation.NonNull;
@@ -19,9 +19,9 @@ import com.facebook.react.fabric.CoreComponentsRegistry;
 import com.facebook.react.fabric.EmptyReactNativeConfig;
 import com.facebook.react.fabric.FabricJSIModuleProvider;
 import com.facebook.react.uimanager.ViewManagerRegistry;
-import com.learningrockethelprn.BuildConfig;
-import com.learningrockethelprn.newarchitecture.components.MainComponentsRegistry;
-import com.learningrockethelprn.newarchitecture.modules.MainApplicationTurboModuleManagerDelegate;
+import com.andresdossantos.learningrockethelprn.BuildConfig;
+import com.andresdossantos.learningrockethelprn.newarchitecture.components.MainComponentsRegistry;
+import com.andresdossantos.learningrockethelprn.newarchitecture.modules.MainApplicationTurboModuleManagerDelegate;
 import java.util.ArrayList;
 import java.util.List;
 

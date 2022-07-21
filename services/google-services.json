@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1005554732191",
+    "project_id": "rockethelp-3214f",
+    "storage_bucket": "rockethelp-3214f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1005554732191:android:aa10d07fa842c3cfcae6aa",
+        "android_client_info": {
+          "package_name": "com.andresdossantos.learningrockethelprn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1005554732191-qb0juf6iil36ovr4mlpvslqt139m2g5c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfa-dRjHNqAyMkrlT0enSod-eNhTVHnm0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1005554732191-qb0juf6iil36ovr4mlpvslqt139m2g5c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1005554732191-lii09ue2r9mlendc66rct2g7i59evuqf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.andresdossantos.learningrockethelprn"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

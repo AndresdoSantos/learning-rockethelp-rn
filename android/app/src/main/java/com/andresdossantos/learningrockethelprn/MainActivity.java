@@ -1,4 +1,4 @@
-package com.learningrockethelprn;
+package com.andresdossantos.learningrockethelprn;
 
 import android.os.Build;
 import android.os.Bundle;
